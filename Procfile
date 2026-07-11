@@ -1,1 +1,1 @@
-web: make-ai-helper-by-xifat.py
+web: make-ai-bot-by-xifat.py
